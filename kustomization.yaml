@@ -5,4 +5,4 @@ resources:
 - service.yaml
 images:
 - name: ghcr.io/kt-cloudnative/springboot_crud_security
-  newTag: "v1"
+  newTag: "v3"
