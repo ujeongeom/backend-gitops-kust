@@ -7,4 +7,4 @@ images:
 - name: ghcr.io/kt-cloudnative/springboot_crud_security
   newTag: "20240206235514"
 - name: ghcr.io/ujeongeom/springboot_crud_security
-  newTag: "20240214092408"
+  newTag: "20240215040805"
